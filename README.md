@@ -62,9 +62,6 @@ tasktrail-sdlc-tracker/
 Live Application:  
 https://tasktrail-sdlc-tracker.vercel.app
 
-API Example:  
-https://tasktrail-sdlc-tracker.vercel.app/api/users
-
 ---
 
 ## ⚙️ Environment Variables (Vercel)
