@@ -45,6 +45,7 @@ The project is deployed as a one-go full-stack application on Vercel using React
 
 ## 📂 Project Structure
 
+```
 tasktrail-sdlc-tracker/
 ├── api/                # Serverless backend routes
 ├── client/             # React (Vite) frontend
@@ -54,6 +55,7 @@ tasktrail-sdlc-tracker/
 ├── models/             # Mongoose models
 ├── vercel.json
 └── README.md
+```
 
 ---
 
