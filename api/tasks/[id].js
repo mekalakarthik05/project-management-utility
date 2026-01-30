@@ -1,5 +1,6 @@
 const connectDB = require('../../lib/db');
 const withApiKey = require('../../lib/withApiKey');
+require('../../models/User'); // register User so Task.populate('assignedTo') works
 const Task = require('../../models/Task');
 
 async function handler(req, res) {
